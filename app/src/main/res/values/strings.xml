@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">TestApp_News</string>
+
+    <string name="news">News</string>
+    <string name="stories">Stories</string>
+    <string name="video">Video</string>
+    <string name="favourites">Favourites</string>
+    <string name="top">top</string>
+
+    <string name="base_url">http://188.40.167.45:3001/</string>
 </resources>
